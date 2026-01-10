@@ -32,7 +32,7 @@ Obesity-Prediction-Model-Analysis
 
 └── LICENSE
 
-    └── License information
+  └── License information
 
 ## Machine Learning Pipeline
 The workflow implemented across notebooks follows a standard supervised learning pipeline:
