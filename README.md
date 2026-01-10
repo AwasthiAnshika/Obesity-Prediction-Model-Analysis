@@ -17,10 +17,9 @@ Obesity-Prediction-Model-Analysis
 
   └── K-Nearest Neighbors model with feature scaling
 
-│
 ├── Naive_Bayes.ipynb
 
-│   └── Naive Bayes classifier implementation
+  └── Naive Bayes classifier implementation
 
 
 ├── Random_Forest.ipynb
@@ -31,8 +30,8 @@ Obesity-Prediction-Model-Analysis
 
   └── Project documentation
 
-
 └── LICENSE
+
     └── License information
 
 ## Machine Learning Pipeline
