@@ -57,11 +57,24 @@ These metrics help compare model stability and class-wise performance. :contentR
 A dedicated notebook or script (`F1_score.ipynb`) is used to consolidate and visualize all metrics for easy comparison across classifiers.
 
 ## Repository Structure
-Obesity-Prediction-Model-Analysis/
+## 📦 Repository Structure
+
+Obesity-Prediction-Model-Analysis
+│
 ├── DT.ipynb
+│   └── Decision Tree model implementation and evaluation
+│
 ├── KNN.ipynb
+│   └── K-Nearest Neighbors model with feature scaling
+│
 ├── Naive_Bayes.ipynb
+│   └── Naive Bayes classifier implementation
+│
 ├── Random_Forest.ipynb
-├── F1_score.ipynb
+│   └── Ensemble learning using Random Forest
+│
 ├── README.md
+│   └── Project documentation
+│
 └── LICENSE
+    └── License information
