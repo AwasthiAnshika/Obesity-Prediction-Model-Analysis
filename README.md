@@ -7,34 +7,32 @@ Obesity is a critical global health concern. Early and accurate prediction can h
 
 ## Repository Structure
 Obesity-Prediction-Model-Analysis
-│
+
 ├── DT.ipynb
 
-│   └── Decision Tree model implementation and evaluation
+ └── Decision Tree model implementation and evaluation
 
-│
+
 ├── KNN.ipynb
 
-│   └── K-Nearest Neighbors model with feature scaling
+  └── K-Nearest Neighbors model with feature scaling
 
 │
 ├── Naive_Bayes.ipynb
 
 │   └── Naive Bayes classifier implementation
 
-│
+
 ├── Random_Forest.ipynb
 
-│   └── Ensemble learning using Random Forest
+  └── Ensemble learning using Random Forest
 
-│
 ├── README.md
 
-│   └── Project documentation
+  └── Project documentation
 
-│
+
 └── LICENSE
-
     └── License information
 
 ## Machine Learning Pipeline
